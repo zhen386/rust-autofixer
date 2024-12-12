@@ -1,0 +1,14 @@
+[package]
+name = "vfs-demo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+camino = "1.1.9"
+indexmap = "2.6.0"
+rustc-hash = "2.0.0"
+lsp-server = "0.7.7"
+anyhow = "1.0.93"
+lsp-types = "0.97.0"
+serde_json = "1.0.133"
+serde = "1.0.215"
