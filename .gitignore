@@ -1,2 +1,7 @@
+out
+node_modules
+client/server
+.vscode-test
 .DS_Store
 */.DS_Store
+*/target
